@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177405644349",
+    "project_id": "interview-d6d04",
+    "storage_bucket": "interview-d6d04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177405644349:android:ac61afecd87b4472026454",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOKgmy0fTf2RNLjTEGWcNJJPHmuRXZq3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
